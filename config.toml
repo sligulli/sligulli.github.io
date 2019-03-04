@@ -1,0 +1,74 @@
+baseURL = "https://sligulli.github.io/"
+languageCode = "en-us"
+title = "Thicket N'Thorn"
+theme = "minimal"
+#disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = ""
+    description = "a community acupuncture clinic in Bedford Virginia"
+    githubUsername = ""
+    accent = "green"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    hidedate = true
+
+[[menu.main]]
+    name = "Thicket N'Thorn"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 20
+
+[[menu.main]]
+    name = "Hours/Fees"
+    url = "/page/hours-fees/"
+    weight = 25
+
+[[menu.main]]
+    name = "FAQs"
+    url = "/page/faqs/"
+    weight = 30
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 40
+
+ [[menu.main]]
+    name = "Links"
+    url = "/page/links/"
+    weight = 45
+
+ [[menu.main]]
+    name = "Artifacts"
+    url = "/artifacts/"
+    weight = 50
+
+[[menu.main]]
+    name = "Reflections"
+    url = "/reflections/"
+    weight = 55
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+   
+[[menu.icon]]
+    
+[[menu.icon]]
+    
+[[menu.icon]]
+    
+[[menu.icon]]
+    
