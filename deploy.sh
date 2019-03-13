@@ -18,7 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push master master
 
 git subtree push --prefix=public https://github.com/sligulli/sligulli.github.io gh-pages
 
