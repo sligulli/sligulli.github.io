@@ -9,6 +9,7 @@ hidedate = true
 **Location**  
 &emsp;&emsp; 207 South Street  
 &emsp;&emsp; Bedford, Virginia 24523  
+&emsp;&emsp; [Directions](https://maps.google.com/?saddr=current+location&daddr=207%20South%20Street,%20Bedford,%2024523)
 
 **Stephen Kirbach** - currently practicing acupuncture at  
 &emsp;&emsp; Thicket N'Thorn in Bedford, Virginia   

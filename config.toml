@@ -2,7 +2,6 @@ baseURL = "https://sligulli.github.io/"
 languageCode = "en-us"
 title = "Thicket N'Thorn"
 theme = "minimal"
-#disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
@@ -43,20 +42,25 @@ googleAnalytics = ""
     url = "/page/contact/"
     weight = 40
 
- [[menu.main]]
-    name = "Links"
-    url = "/page/links/"
+[[menu.main]]
+    name = "FAQs"
+    url = "/faqs/"
     weight = 45
 
  [[menu.main]]
-    name = "Artifacts"
-    url = "/artifacts/"
+    name = "Links"
+    url = "/page/links/"
     weight = 50
 
 [[menu.main]]
     name = "Reflections"
     url = "/reflections/"
     weight = 55
+
+[[menu.main]]
+    name = "Artifacts"
+    url = "/artifacts/"
+    weight = 60
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

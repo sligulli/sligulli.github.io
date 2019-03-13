@@ -19,3 +19,6 @@ hidedate = true
 
 **Book Now**  
 &emsp;&emsp; [Save me a seat!](https://app.shedul.com/online_bookings/thicket-n-thorn-community-acupuncture-tektawrm)  
+
+**Get Directions**  
+&emsp;&emsp; [207 South Street / Bedford Virginia 24523](https://maps.google.com/?saddr=current+location&daddr=207%20South%20Street,%20Bedford,%2024523)
