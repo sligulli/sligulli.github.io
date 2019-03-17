@@ -6,12 +6,20 @@
   </url>
   
   <url>
+    <loc>https://sligulli.github.io/page/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://sligulli.github.io/faqs/cleanneedlez/</loc>
   </url>
   
   <url>
     <loc>https://sligulli.github.io/artifacts/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sligulli.github.io/page/contact/</loc>
   </url>
   
   <url>
@@ -29,6 +37,10 @@
   <url>
     <loc>https://sligulli.github.io/faqs/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sligulli.github.io/page/links/</loc>
   </url>
   
   <url>
@@ -84,10 +96,6 @@
   </url>
   
   <url>
-    <loc>https://sligulli.github.io/page/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://sligulli.github.io/artifacts/colorado/</loc>
   </url>
   
@@ -96,19 +104,11 @@
   </url>
   
   <url>
-    <loc>https://sligulli.github.io/page/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://sligulli.github.io/artifacts/cracker/</loc>
   </url>
   
   <url>
     <loc>https://sligulli.github.io/post/cracker/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sligulli.github.io/page/links/</loc>
   </url>
   
   <url>
