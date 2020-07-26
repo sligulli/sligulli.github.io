@@ -13,7 +13,7 @@ hidedate = true
 
 **​​Fees**  
 &emsp;&emsp; $10 first time paperwork fee  
-&emsp;&emsp; $50 / Acupuncture & all other services </p>
+&emsp;&emsp; $50 / Acupuncture & all other services </br>
 &emsp;&emsp; Free phone consultations  
 
 **First Visit Forms**  
